@@ -1,0 +1,12 @@
+{
+  "name": "MATH3888 PyDSTool",
+  "image": "curuy/math3888:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+      ]
+    }
+  }
+}
